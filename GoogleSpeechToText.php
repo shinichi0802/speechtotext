@@ -7,7 +7,7 @@
  * @version 0.1
  * @author Roger Thomas
  * @see
- *
+ * Tom tit
  */
 class GoogleSpeechToText
 {
